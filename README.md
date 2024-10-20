@@ -1,4 +1,4 @@
-# NTU-3DCV-2023
+# NTU-2023Fall-3DCV
 
 This repository is implementation of Homework for CSIE5429 3D Computer Vision with Deep Learning Applications course in 2023 Fall semester at National Taiwan University.
 
